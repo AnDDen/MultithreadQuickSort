@@ -1,0 +1,6 @@
+D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\bin\Debug\MultithreadQuickSort.exe.config
+D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\bin\Debug\MultithreadQuickSort.exe
+D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\bin\Debug\MultithreadQuickSort.pdb
+D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\obj\Debug\MultithreadQuickSort.csprojResolveAssemblyReference.cache
+D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\obj\Debug\MultithreadQuickSort.exe
+D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\obj\Debug\MultithreadQuickSort.pdb
