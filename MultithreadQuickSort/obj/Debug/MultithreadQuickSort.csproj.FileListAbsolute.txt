@@ -4,3 +4,9 @@ D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\bin\Debug\M
 D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\obj\Debug\MultithreadQuickSort.csprojResolveAssemblyReference.cache
 D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\obj\Debug\MultithreadQuickSort.exe
 D:\2 Курс\Лабы\OOP\MultithreadQuickSort\MultithreadQuickSort\obj\Debug\MultithreadQuickSort.pdb
+C:\Users\fgnmgm\Documents\GitHub\MultithreadQuickSort\MultithreadQuickSort\bin\Debug\MultithreadQuickSort.exe.config
+C:\Users\fgnmgm\Documents\GitHub\MultithreadQuickSort\MultithreadQuickSort\obj\Debug\MultithreadQuickSort.exe
+C:\Users\fgnmgm\Documents\GitHub\MultithreadQuickSort\MultithreadQuickSort\obj\Debug\MultithreadQuickSort.pdb
+C:\Users\fgnmgm\Documents\GitHub\MultithreadQuickSort\MultithreadQuickSort\bin\Debug\MultithreadQuickSort.exe
+C:\Users\fgnmgm\Documents\GitHub\MultithreadQuickSort\MultithreadQuickSort\bin\Debug\MultithreadQuickSort.pdb
+C:\Users\fgnmgm\Documents\GitHub\MultithreadQuickSort\MultithreadQuickSort\obj\Debug\MultithreadQuickSort.csprojResolveAssemblyReference.cache
